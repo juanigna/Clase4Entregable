@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Computadora",
+		"description": "La mejor compu",
+		"price": 120000,
+		"thumbnail": "No thumbail",
+		"id": "2e41f792-2c79-4b58-b791-b8e022d0377a",
+		"code": "compu",
+		"stock": 23
+	},
+	{
+		"title": "Telefono",
+		"description": "El mejor telefono",
+		"price": 150000,
+		"thumbnail": "No thumbail",
+		"id": "711ab329-a7b5-427b-bee8-3109dc75e6e7",
+		"code": "tel",
+		"stock": 2
+	}
+]
