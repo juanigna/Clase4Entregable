@@ -25,6 +25,12 @@ app.get('/products', async (req, res) => {
 app.get('/products/:pid', async (req, res) => {
     const {pid} = req.params;
     const product = await productManager.getProductById(pid);
+    if(!product){
+        res.json({
+            "error": "Product not found"
+        })
+        return;
+    }
     res.json({
         'product': product
     });
