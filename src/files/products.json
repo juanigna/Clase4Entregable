@@ -1,20 +1,92 @@
 [
 	{
-		"title": "Computadora",
-		"description": "La mejor compu",
-		"price": 120000,
-		"thumbnail": "No thumbail",
-		"id": "2e41f792-2c79-4b58-b791-b8e022d0377a",
-		"code": "compu",
-		"stock": 23
-	},
-	{
-		"title": "Telefono",
-		"description": "El mejor telefono",
+		"title": "Celular",
+		"description": "El mejor celular",
 		"price": 150000,
 		"thumbnail": "No thumbail",
-		"id": "711ab329-a7b5-427b-bee8-3109dc75e6e7",
-		"code": "tel",
-		"stock": 2
+		"id": "2830a058-7b62-4a43-b6fa-9fed5fb22e53",
+		"code": "cel",
+		"stock": 22
+	},
+	{
+		"title": "Auto",
+		"description": "El mejor auto",
+		"price": 15300000,
+		"thumbnail": "No thumbail",
+		"id": "8375f03d-1d8f-4ca9-8ec6-beacec69f8bc",
+		"code": "auto",
+		"stock": 6
+	},
+	{
+		"title": "Heladera",
+		"description": "La mejor heladera",
+		"price": 153000,
+		"thumbnail": "No thumbail",
+		"id": "ecf15f7c-90f3-4fa6-8839-acd530fa11e2",
+		"code": "heladera",
+		"stock": 20
+	},
+	{
+		"title": "Libro",
+		"description": "El mejor libro",
+		"price": 1000,
+		"thumbnail": "No thumbail",
+		"id": "1702d3b6-3cb3-48f3-98b5-27f9e0b0e456",
+		"code": "libro",
+		"stock": 12
+	},
+	{
+		"title": "Ipod",
+		"description": "El mejor ipod",
+		"price": 1500,
+		"thumbnail": "No thumbail",
+		"id": "06d48c7d-4060-4412-9df5-3ebd323389f8",
+		"code": "ipod",
+		"stock": 9
+	},
+	{
+		"title": "Iphone",
+		"description": "El mejor iphone",
+		"price": 350000,
+		"thumbnail": "No thumbail",
+		"id": "398685c6-df02-495f-bf59-d5b5e1d77899",
+		"code": "iphone",
+		"stock": 5
+	},
+	{
+		"title": "Auriculares",
+		"description": "El mejor auricular",
+		"price": 15000,
+		"thumbnail": "No thumbail",
+		"id": "83a0a9c1-ae7b-4856-82a0-b1b6134141da",
+		"code": "auris",
+		"stock": 1
+	},
+	{
+		"title": "Teclado",
+		"description": "El mejor teclado",
+		"price": 10000,
+		"thumbnail": "No thumbail",
+		"id": "4e7ba5e4-687c-4015-873c-a383810f3a91",
+		"code": "teclado",
+		"stock": 16
+	},
+	{
+		"title": "Mouse",
+		"description": "El mejor mouse",
+		"price": 8500,
+		"thumbnail": "No thumbail",
+		"id": "d49253e4-05d3-4a18-8200-e1d0662702d2",
+		"code": "mouse",
+		"stock": 29
+	},
+	{
+		"title": "Silla gamer",
+		"description": "La mejor silla gamer",
+		"price": 100000,
+		"thumbnail": "No thumbail",
+		"id": "eb70102c-b056-42b9-8e21-48ff3e941bd6",
+		"code": "silla",
+		"stock": 9
 	}
 ]
